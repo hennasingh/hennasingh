@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-Frontend Developer, currently studying Frontend Development Career Path from Scrimba and working as Program Manager at MongoDB. I am actively looking to switch to a more technical profile and build new web solutions. I bring great leadership, program management and customer engineering background, that proves my strong interpersonal, team building and resourceful skills.
+Customer focussed professional with excellent experience in problem solving, content creating and relationship building. Currently studying Frontend Development Career Path and working as Program Manager at MongoDB. I am actively looking to move to more engineering focussed roles. I bring  great leadership, program management and customer engineering background, that proves my strong interpersonal, team building and resourceful skills.
 
 * 🌍  I'm based in Dublin, Ireland
 * 🚀  I'm currently working on [Best-Bank project with a team as a part of Scrimba Bootcamp](http://github.com/hennasingh/best-bank)
