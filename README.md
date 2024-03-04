@@ -50,9 +50,9 @@ Frontend Developer, currently studying Frontend Development Career Path from Scr
 
 ### 👩‍💻 My recent projects 
 
-- <a href="https://quizz-with-react.netlify.app/"> Quizzical</a>
-- <a href="https://generate-colorscheme.netlify.app/"> Color scheme Generator </a>
-- <a href="https://mylearning-digest.netlify.app/"> My Learning Journal </a>
+- <a href="https://quizz-with-react.netlify.app/" target="_blank"> Quizzical</a>
+- <a href="https://generate-colorscheme.netlify.app/" target="_blank"> Color scheme Generator </a>
+- <a href="https://mylearning-digest.netlify.app/" target="_blank"> My Learning Journal </a>
 
 
 
