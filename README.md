@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Customer focussed professional with excellent experience in problem solving, content creating and relationship building. Currently studying Frontend Development Career Path and working as Program Manager at MongoDB. I am actively looking to move to more engineering focussed roles. I bring  great leadership, program management and customer engineering background, that proves my strong interpersonal, team building and resourceful skills.
 
 * 🌍  I'm based in Dublin, Ireland
-* 🚀  I'm currently working on [Best-Bank project with a team as a part of Scrimba Bootcamp](http://github.com/hennasingh/best-bank)
+* 🚀  I'm currently working on [Frontend mentor Planet Facts Challenge](https://github.com/hennasingh/planet-facts)
 * 🧠  I'm learning React and Tailwind
 * 🤝  I'm open to collaborating on web development projects
 * ⚡  I am learning to play tennis and I love painting and cross-stitching in my free time
@@ -50,6 +50,7 @@ Customer focussed professional with excellent experience in problem solving, con
 - <a href="https://quizz-with-react.netlify.app/" target="_blank"> Quizzical</a>
 - <a href="https://generate-colorscheme.netlify.app/" target="_blank"> Color scheme Generator </a>
 - <a href="https://mylearning-digest.netlify.app/" target="_blank"> My Learning Journal </a>
+- <a href="http://github.com/hennasingh/best-bank" target="_blank">Best Bank Team Project</a>
 
 
 
