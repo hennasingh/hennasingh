@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Customer focussed professional with excellent experience in problem solving, content creating and relationship building. Currently studying Frontend Development Career Path and working as Program Manager at MongoDB. I am actively looking to move to more engineering focussed roles. I bring  great leadership, program management and customer engineering background, that proves my strong interpersonal, team building and resourceful skills.
 
 * 🌍  I'm based in Dublin, Ireland
-* 🚀  I'm currently working on [Frontend mentor Planet Facts Challenge](https://github.com/hennasingh/planet-facts)
+* 🚀  I'm currently doing Diploma in Full Stack Developmnet at Code Institute and working on Milestone 1 project - [CreativeCorner](https://hennasingh.github.io/creative-corner/)
 * 🧠  I'm learning React and Tailwind
 * 🤝  I'm open to collaborating on web development projects
 * ⚡  I am learning to play tennis and I love painting and cross-stitching in my free time
