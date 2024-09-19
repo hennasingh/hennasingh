@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Henna Singh
 ===================================================================================================================================
 
-Customer focussed professional with excellent experience in problem solving, content creating and relationship building. Currently studying Frontend Development Career Path and working as Program Manager at MongoDB. I am actively looking to move to more engineering focussed roles. I bring  great leadership, program management and customer engineering background, that proves my strong interpersonal, team building and resourceful skills.
+Customer focussed professional with excellent experience in problem solving, content creating and relationship building. Currently studying Full Stack Development at Code Institute. I am actively looking to move to more engineering focussed roles. I bring  great leadership, program management and customer engineering background, that proves my strong interpersonal, team building and resourceful skills.
 
 * 🌍  I'm based in Dublin, Ireland
 * 🚀  I'm working on Milestone 3 project - [BrewStation](https://github.com/hennasingh/BrewStation), a command line program in Python.
