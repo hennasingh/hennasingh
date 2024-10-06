@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Customer focussed professional with excellent experience in problem solving, content creating and relationship building. Currently studying Full Stack Development at Code Institute. I am actively looking to move to more engineering focussed roles. I bring  great leadership, program management and customer engineering background, that proves my strong interpersonal, team building and resourceful skills.
 
 * 🌍  I'm based in Dublin, Ireland
-* 🚀  I'm working on Milestone 3 project - [BrewStation](https://github.com/hennasingh/BrewStation), a command line program in Python.
-* 🧠  I'm currently doung Diploma in Full Stack Development at Code Institute 
+* 🚀  I recently finished portfolio project - [BrewStation](https://github.com/hennasingh/BrewStation), a command line program in Python.
+* 🧠  I'm currently doing Diploma in Full Stack Development at Code Institute 
 * 🤝  I'm open to collaborating on web development projects
-* ⚡  I have enrolled for art workshops with EU&YOU project  and I love painting and cross-stitching in my free time
+* ⚡  I love painting and cross-stitching in my free time
 
 🙋‍♀️ You can find me at:
 
