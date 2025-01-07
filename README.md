@@ -5,6 +5,7 @@ Customer focussed professional with excellent experience in problem solving, con
 
 * 🌍  I'm based in Dublin, Ireland
 * 🚀  I recently finished portfolio project - [BrewStation](https://github.com/hennasingh/BrewStation), a command line program in Python.
+* 🚀  I am developing [Artisan Alley](https://github.com/hennasingh/ArtisanAlley) that connects Artists from around Ireland.
 * 🧠  I'm currently doing Diploma in Full Stack Development at Code Institute 
 * 🤝  I'm open to collaborating on web development projects
 * ⚡  I love painting and cross-stitching in my free time
