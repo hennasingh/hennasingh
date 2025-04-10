@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Customer focussed professional with excellent experience in problem solving, content creating and relationship building. Currently pursuing a diploma in Full Stack Development at Code Institute to expand my expertise in JavaScript, Python, Django and database management to transition into engineering and product roles. My ability to translate complex technical concepts into actionable insights, combined with my leadership in program management, equips me to drive innovation in software engineering and product development.
 
 * 🌍  I'm based in Dublin, Ireland
-* 🚀  I recently finished portfolio project - [Artisan ALley](https://github.com/hennasingh/ArtisanAlley), a directory of artisans in Ireland.
+* 🚀  I recently finished portfolio project - [Artisan Alley](https://github.com/hennasingh/ArtisanAlley), a directory of artisans in Ireland.
 * 🚀  I am developing [Travel Table Top](https://github.com/hennasingh/TravelTableTop) ecommerce application that caters to games you can play when you travel.
 * 🧠  I'm currently doing Diploma in Full Stack Development at Code Institute 
 * 🤝  I'm open to collaborating on web development projects
