@@ -1,4 +1,5 @@
-![github-header-image](https://github.com/user-attachments/assets/9c1927d0-5d15-43e4-a7a1-4173a63cbc16)
+![Github-Header](https://github.com/user-attachments/assets/e49615b2-22a1-44b4-9462-dff74da67f8b)
+
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Henna Singh
 ===================================================================================================================================
