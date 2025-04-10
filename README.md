@@ -61,6 +61,10 @@ Customer focussed professional with excellent experience in problem solving, con
 
 <a href="http://www.github.com/hennasingh"><img src="https://github-readme-stats.vercel.app/api?username=hennasingh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hennasingh's GitHub stats" /></a>
 
+### Are you an Employer?
+
+[![Download CV](https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Henna Singh.pdf)
+
 
 
 
