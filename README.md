@@ -17,7 +17,7 @@ Customer focussed professional with excellent experience in problem solving, con
 ### 👩‍💻 My recent projects 
 
 - <a href="https://github.com/hennasingh/quizzical" target="_blank"> Quizzical</a>
-- <a href="https://github.com/hennasingh/henna-dev" target="_blank">hennasingh.dev</a>
+- <a href="https://github.com/hennasingh/henna-dev-v2" target="_blank">hennasingh.dev</a>
 - <a href="https://github.com/hennasingh/Potterville" target="_blank"> Potterville </a>
 - <a href="https://github.com/hennasingh/BrewStation" target="_blank">BrewStation</a>
 
