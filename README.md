@@ -71,7 +71,7 @@ Customer focussed professional with excellent experience in problem solving, con
 
 ### Are you an Employer?
 
-<a href="./Henna Singh.pdf" download>
+<a href="./CV_HennaSingh.pdf" download>
   <img src="https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
 </a>
 
