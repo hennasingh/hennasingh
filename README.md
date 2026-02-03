@@ -59,8 +59,12 @@ Customer focussed professional with excellent experience in problem solving, con
 
 ### What I am Learning Now
 
-- 📟 Currently learning Next.js and Typescript
-- 🎑 Building version 2 of my portfolio hennasingh.dev
+- 📟 Currently learning AI Developer Path on Scrimba and Intermediate SQL on Datacamp
+- 🎑 Building RAG app for movies
+
+### Affiliate Link for Scrimba
+
+[![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/?via=u011phq)
 
 
 ### 🥇 Badges
